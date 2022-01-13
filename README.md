@@ -2,6 +2,9 @@
 Pepperfry is an Indian online marketplace for furniture and home decor.
 This is our second project at masai school construct week after learning HTML,CSS & JAVASCRIPT.
 
+# Deploy Link
+https://pepperfry-clone-silk.vercel.app/
+
 # Tech Stack
 * HTML
 * CSS
